@@ -1,0 +1,13 @@
+{
+  "claim_type": "original_public_repo_readme",
+  "public_url": "https://github.com/guyguhiohiuhiu/approval-risk-auditor/blob/main/RUNX_SUPPORT.md",
+  "runx_link_found": true,
+  "runx_links": [
+    "https://runx.ai",
+    "https://github.com/runxhq/runx"
+  ],
+  "summary": "An original technical article explaining why runx matters for AI agent development, hosted in a public GitHub repository alongside a real deployed AI agent (Approval Risk Auditor).",
+  "audience": "AI agent developers and bounty platform operators who need verifiable agent execution",
+  "why_allowed": "This is original content in the author's own public GitHub repository. GitHub README and documentation files are appropriate venues for technical support content.",
+  "author_context": "The author built and deployed an AI agent (Approval Risk Auditor) that uses x402 payment protocol, which is adjacent to runx's governed execution model. The support is authentic because the author genuinely builds in this ecosystem."
+}
