@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "buildCommand": "npx tsc",
+  "outputDirectory": "dist",
+  "functions": {
+    "src/index.ts": {
+      "runtime": "@vercel/node@5"
+    }
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/src/index.ts" }
+  ]
+}
