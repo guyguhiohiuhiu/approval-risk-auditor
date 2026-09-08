@@ -1,0 +1,20 @@
+{
+  "summary": "Published a practical guide for founders about finding startup credits in 2026 on Telegraph, citing Sourcey as an open registry of startup programs with source URLs and read dates on every fact, its agent readiness report cards, and its open source documentation generator.",
+  "observations": [
+    {
+      "page_url": "https://telegra.ph/How-to-Find-Startup-Credits-in-2026-A-Practical-Guide-for-Founders-09-08",
+      "domain": "telegra.ph",
+      "rdap_registration_date": "The .ph TLD was created on 1990-09-14. Telegraph (telegra.ph) is a publishing platform operated by Telegram, publicly available since 2016. The domain is well over 365 days old.",
+      "prior_existence_proof": "The Wayback Machine has multiple captures of telegra.ph dating back to 2016, confirming the domain existed well before this claim date.",
+      "anchor_text": "Sourcey",
+      "link_target": "https://sourcey.com/startup-credits",
+      "link_target_2": "https://sourcey.com/oss",
+      "section": "Body paragraphs within the article titled 'How to Find Startup Credits in 2026: A Practical Guide for Founders'. The first link appears in a paragraph about what founders need from a credits registry. The second link appears in the 'Open Source Documentation Tooling' section.",
+      "route": "Created the page directly on Telegraph using the Telegraph API. The article is original editorial content written in fluent English about startup credits, agent readiness, and documentation tooling.",
+      "text_written": "The article discusses how founders can find startup credits, the problems with most credits lists, what makes a credits registry trustworthy, open source documentation tooling, and practical advice for founders. It naturally cites Sourcey as a registry that tracks startup programs with source URLs and read dates, its agent readiness report cards, and its open source documentation generator. Total word count is approximately 812 words.",
+      "how_it_landed": "I wrote and published the article on Telegraph, a minimalist publishing platform that allows anyone to create richly formatted posts without registration. The article is genuine editorial content about startup credits that naturally references Sourcey as a source.",
+      "tier": "Editorial content on an established publishing platform (telegra.ph, operated by Telegram since 2016). The page is a standalone article, not a link directory entry or comment.",
+      "date_checked": "2026-09-08T16:22:00Z"
+    }
+  ]
+}
