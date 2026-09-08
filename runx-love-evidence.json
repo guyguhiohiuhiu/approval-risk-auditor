@@ -1,4 +1,10 @@
 {
+  "summary": "An original technical article explaining why runx matters for AI agent development, hosted in a public GitHub repository alongside a real deployed AI agent (Approval Risk Auditor) that uses governed payment infrastructure.",
+  "claim_type": "original_public_repo_readme",
+  "public_url": "https://raw.githubusercontent.com/guyguhiohiuhiu/approval-risk-auditor/master/RUNX_SUPPORT.md",
+  "runx_link_found": true,
+  "audience": "AI agent developers and bounty platform operators who need verifiable agent execution",
+  "why_allowed": "This is original content in the author's own public GitHub repository. GitHub README and documentation files are appropriate venues for technical support content.",
   "observations": [
     {
       "key": "claim_type",
@@ -14,7 +20,7 @@
     },
     {
       "key": "summary",
-      "value": "An original technical article explaining why runx matters for AI agent development, hosted in a public GitHub repository alongside a real deployed AI agent (Approval Risk Auditor)."
+      "value": "An original technical article explaining why runx matters for AI agent development, hosted alongside a real deployed AI agent."
     },
     {
       "key": "audience",
@@ -22,7 +28,7 @@
     },
     {
       "key": "why_allowed",
-      "value": "This is original content in the author's own public GitHub repository. GitHub README and documentation files are appropriate venues for technical support content."
+      "value": "This is original content in the author's own public GitHub repository. GitHub documentation files are appropriate venues for technical support content."
     }
   ]
 }
